@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "EduardoPadoan 1/21/2018 12:26",
+	"super" : "SimpleSwitchMorph",
+	"category" : "Game Of Life",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"updateState",
+		"states"
+	],
+	"name" : "GOLCell",
+	"type" : "normal"
+}

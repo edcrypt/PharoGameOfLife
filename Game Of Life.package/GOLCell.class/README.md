@@ -1,0 +1,1 @@
+I represent a single game of life cell, either alive or dead.

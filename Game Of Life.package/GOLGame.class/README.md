@@ -1,0 +1,1 @@
+I ́m a Conway ́s Game of Life board.

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "EduardoPadoan 1/25/2018 18:18",
+	"super" : "BorderedMorph",
+	"category" : "Game Of Life",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cells",
+		"iteration"
+	],
+	"name" : "GOLGame",
+	"type" : "normal"
+}

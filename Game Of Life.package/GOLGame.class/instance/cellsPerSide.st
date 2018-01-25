@@ -1,0 +1,3 @@
+accessing
+cellsPerSide
+	^ 16
